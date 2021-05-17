@@ -26,4 +26,4 @@ where n = agent anme
 
 2. Start the Kafka Producer on your system.By Default it will be publishing "Hello" on topic "Stream"
 
-The path for HDFS  is given in flume.conf
+The path for HDFS  is given in flume.conf.
